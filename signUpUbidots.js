@@ -21,7 +21,7 @@ async function registration() {
   const configRegistration = {
     headers: {
       "Content-Type": "application/json",
-      "X-Auth-Token": "BBFF-V9KsWRKJ3rlNAvcvyh1qbzFaZcdLTP",
+      "X-Auth-Token": "",
     },
   };
 
